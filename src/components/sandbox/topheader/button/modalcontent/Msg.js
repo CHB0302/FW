@@ -6,7 +6,7 @@ const MyIcon4 = createFromIconfontCN({
   scriptUrl: '//at.alicdn.com/t/c/font_3599420_jlv2tlrbhyh.js', // 在 iconfont.cn 上生成
 });
 const { TabPane } = Tabs;
-const { Header, Content, Footer, Sider } = Layout;
+const {  Content,Sider } = Layout;
 const operations = <Button style={{border: 'none',height: '40px',padding: '0px 20px',boxShadow:'none'}}><MyIcon4 type="icon-search"/></Button>
 
 
