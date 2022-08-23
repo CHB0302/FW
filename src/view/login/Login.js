@@ -1,8 +1,8 @@
 import React from 'react'
-import Home from '../SandBox/home/Home'
+import SandBox from '../SandBox/SandBox'
 
 export default function Login() {
   return (
-    <div><Home/></div>
+    <div><SandBox/></div>
   )
 }
