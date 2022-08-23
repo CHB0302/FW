@@ -1,0 +1,293 @@
+.ant-layout-header{
+    background: #0270C1;
+    height: 55px;
+    padding: 0 0;
+}
+
+.logo{
+    color:#fff;
+    height: 55px;
+    width: 200px;
+    text-align: center;
+    line-height: 55px;
+}
+.logoname{
+    font-size: 15px;
+}
+
+.headerBox{
+    width: 100%;
+    height: 55px;
+}
+
+.left-menu{
+    position: absolute;
+    top: 0px;
+    left: 200px;
+    height: 55px;
+    width: 515px;
+    text-align: center;
+    line-height: 55px;
+}
+
+.homeIconBox{
+    float: left;
+    margin-left: 10px;
+    cursor: pointer;
+    position: relative;
+    width: 40px;
+    height: 55px;
+}
+
+.homeIcon{
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -9px;
+    margin-left: -9px;
+    font-size: 19px;
+}
+
+.menuBox{
+    width: 120px;
+    height: 55px;
+    float: left;
+    margin-right: 5px;
+    cursor: pointer;
+    color: #0270C1;
+}
+
+/* .popover{
+    width: 120px;
+    line-height: 55px;
+} */
+
+.menuIconBox{
+    float: left;
+    width: 20px;
+    line-height: 55px;
+    margin-left: 10px;
+    margin-right: 5px;
+    margin-top: 2px;
+    cursor: pointer;
+}
+
+.menuIcon{
+    color: white;
+    position: relative;
+    font-size: 19px;
+}
+
+
+.popover{
+    width: 120px;
+    height: 55px;
+    margin: 0 5px;
+    padding: 0 0;
+    background: #0270C1;
+    border-style: none;
+}
+
+.icon-menu{
+    float: left;
+    width: 100px;
+    height: 100px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    cursor: pointer;
+    text-align: center;
+    padding-top: 20px;
+    color: #fff;
+}
+
+.MHIcon{
+    font-size: 35px;
+    color: #fff;
+}
+
+
+
+.title{
+    float: left;
+    width: 75px;
+    line-height: 55px;
+    margin: 0 5px;
+    text-align: left;
+    white-space: nowrap;
+    overflow: hidden;
+    -o-text-overflow: ellipsis;
+    text-overflow: ellipsis;
+    font-size: 16px;
+}
+
+.useMenuBox{
+    float: left;
+    height: 35px;
+    width: 35px;
+    margin: 10px 2px;
+    background: rgba(0, 0, 0, 0.08);
+    cursor: pointer;
+    position: relative;
+}
+.useMenuIcon{
+    color: white;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    margin-top: -9px;
+    margin-left: -9px;
+    font-size: 18px;
+}
+
+.searchItemBox{
+    float: left;
+    width: 301px;
+    height: 35px;
+    margin: 10px 0;
+    background: rgba(0, 0, 0, 0.08);
+}
+
+.ant-select-show-arrow{
+    height: 35px;
+    margin: 0 0 0 0;
+}
+
+.ant-input-borderless{
+    color: white;
+}
+
+.ant-select-selector{  
+    display:inline-block;
+    /* margin-top: 1.5px;
+    float: left; */
+    height: 35px;
+    cursor: pointer;
+    background: rgba(0, 0, 0, 0.08); 
+}
+
+.ant-select-arrow{
+    color: white;
+}
+
+/* .ant-input-group-compact{
+    width: 301px;
+    height: 35px;
+    margin: 0 0;
+    background: rgba(0, 0, 0, 0.08);
+}
+
+.ant-select-selection-search{
+    width: 60px;
+    height: 35px;
+}*/
+
+.ant-select-selection-item{
+    font-size: 14px;
+    width: 60px;
+    height: 35px;
+}
+
+.ant-select-selection-search{
+    height: 35px;
+}
+
+
+.ant-input-borderless{
+    height: 35px;
+}
+
+.ant-input-search-button{
+    color: white;
+    background: #0270C1;
+    border: none;
+    height: 35px;
+}
+
+
+
+.rightmenu{
+    width: 281px;
+    height: 55px;
+    right: 0;
+    top: 0px;
+    float: right;
+    position: absolute;
+    line-height: 55px;
+}
+
+.avatarbox{
+    cursor: pointer;
+    position: absolute;
+    top: 0px;
+    right: 0px;
+    height: 55px;
+    width: 146px;
+    text-align: right;
+    line-height: 55px;
+    color: white;
+    margin-right: 10px;
+}
+
+.ant-avatar-lg.ant-avatar-icon {
+    font-size: 18px;
+    background: rgb(85, 177, 249);
+    margin-right: 10px;
+}
+
+
+.ant-space-align-center{
+    color: #fff;
+    background: #0270C1;
+    font-size: 14px;
+}
+
+.moreMenuBox{
+    float: right;
+    position: absolute;
+    width: 38px;
+    height: 55px;
+    right: 157px;
+    top: 0px;
+    opacity: .8;
+    cursor: pointer;
+    font-size: 18px;
+    text-align: center;
+    margin-right: 10px;
+}
+
+.star-menu-box{
+    width: 76px;
+    height: 55px;
+    margin-top:2px;
+}
+
+.msg-menu-icon{
+    width: 18px;
+    height: 55px;
+    line-height: 55px;
+    margin: 0 10px;
+    cursor: pointer;
+    color: #fff;
+    font-size: 18px;
+    text-align: center;
+}
+
+.star-menu-icon{
+    width: 18px;
+    height: 55px;
+    line-height: 55px;
+    margin: 0 10px;
+    cursor: pointer;
+    color: #fff;
+    font-size: 18px;
+    text-align: center;
+}
+
+.ant-modal-body {
+        padding: 0 0 0 0;
+        font-size: 14px;
+        line-height: 1.5715;
+        word-wrap: break-word;
+}
+

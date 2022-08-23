@@ -1,0 +1,56 @@
+.ant-card {
+    padding-top: 2px;
+    padding-right: 24px;
+    padding-bottom: 2px;
+    padding-left: 24px;
+}
+
+.ant-card-body {
+    padding-top: 0px;
+    padding-right: 0px;
+    padding-bottom: 0px;
+    padding-left: 0px;
+}
+
+.ant-list-item {
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding: 2px 0;
+    color: rgba(0, 0, 0, 0.85);
+}
+
+.ant-list-item-meta-avatar {
+    margin: 8px 8px 8px 8px;
+}
+
+.ant-pagination {
+    box-sizing: border-box;
+    margin: 0;
+    padding-bottom: 4px;
+    color: rgba(0, 0, 0, 0.85);
+    font-size: 14px;
+    font-variant: tabular-nums;
+    line-height: 1.5715;
+    list-style: none;
+    font-feature-settings: 'tnum', "tnum";
+}
+ .icon {
+       width: 1em; height: 1em;
+       vertical-align: -0.15em;
+       fill: currentColor;
+       overflow: hidden;
+}
+
+.icon-list{
+    width: 25%;
+    height: 84px;
+    float: left;
+    cursor: pointer;
+    margin-top: 10px;
+    text-align: center;
+}
+.KJIcon{
+    font-size: 30px;
+    margin-top: 10px;
+}

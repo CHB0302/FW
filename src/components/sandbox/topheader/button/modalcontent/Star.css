@@ -1,0 +1,29 @@
+div.ant-page-header-content{
+    position: absolute;
+    height: 61px;
+    width: 700px;
+    left: 0;
+    padding-left: 20px;
+    padding-top: 0;
+}
+
+/* span.ant-input-group-wrapper.ant-input-search{
+    padding-left: 50px;
+} */
+span.ant-input-group-addon{
+    background-color: #fff;
+}
+
+button.ant-btn.ant-btn-default.ant-btn-icon-only.ant-input-search-button{
+    height: 32px;
+    background: #fff;
+    border: 1px solid #d9d9d9;
+}
+
+.ant-select .quanbuleixing .ant-select-single .ant-select-show-arrow{
+    color: black;
+}
+
+.ant-select-single.ant-select-show-arrow .ant-select-selection-item, .ant-select-single.ant-select-show-arrow .ant-select-selection-placeholder {
+    padding-right: 10px;
+}

@@ -1,0 +1,19 @@
+#root,.ant-layout,.ant-layout-sider{
+    height: 100%;
+}
+
+
+
+.ant-row {
+    margin-left: 0px;
+    margin-right: 0px;
+}
+
+.ant-col{
+    padding-left: 8px;
+    padding-right: 8px;
+    padding-top: 8px;
+    padding-bottom: 8px;
+    display: block;
+}
+
